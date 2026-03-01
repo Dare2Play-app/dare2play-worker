@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dare2play-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8aaa92ba-0943-49e6-88a9-d2210e32890e",
+			"database_name": "dare2play"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
